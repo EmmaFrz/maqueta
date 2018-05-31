@@ -8521,7 +8521,7 @@ input[type=range].focused:focus:not(.active)::-ms-thumb {
 }
 
 .slider .slides {
-    background-color: #9e9e9e;
+    background-color: white;
     margin: 0;
     height: 400px;
 }
@@ -8545,7 +8545,9 @@ input[type=range].focused:focus:not(.active)::-ms-thumb {
 }
 
 .slider .slides li .caption {
-    color: #fff;
+
+    color: white;
+
     position: absolute;
     top: 15%;
     left: 15%;
